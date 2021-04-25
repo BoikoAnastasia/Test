@@ -7,6 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTest", "WebTest\WebTest.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1194B80C-945B-4A61-9E99-E99EF05EB82D}"
 	ProjectSection(SolutionItems) = preProject
+		1.jpg = 1.jpg
+		2.jpg = 2.jpg
+		3.jpg = 3.jpg
 		ataka.jpg = ataka.jpg
 		Page1.html = Page1.html
 		Page10.html = Page10.html
