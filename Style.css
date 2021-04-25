@@ -1,0 +1,44 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #d489f7;
+    text-shadow: 2px 2px 2px #ffffff;
+    font-size: 80px;
+    margin: 100px 0 0 0;
+}
+
+body {
+    background-position: center;
+    background: url(ataka.jpg);
+    background-size: auto;
+}
+
+
+.menu {
+    padding: 0;
+    width: 800px;
+    margin: 0 auto;
+    height: 300px;
+}
+
+html {
+height: 800px;
+}
+
+input {
+    height: 50px;
+    width: 100px;
+    margin: 100px 30px 80px 350px;
+    background: #FFCFB1CD;
+    border: 2px dashed #6800b9;
+}
+
+h1::selection {
+    color: white;
+    background: none;
+    text-shadow: 2px 2px 2px #d489f7;
+}
